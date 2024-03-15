@@ -1,8 +1,8 @@
 repo_name: abhishekdbit1/teable
-report_id: 873029e2fa1af95e286fb555e1028b67
+report_id: 5a4e4569310b090cc32a9ac79258dc10
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-14T14:34:33+00:00'
+timestamp: '2024-03-15T09:14:21+00:00'
 requested_by: caoxing9
 provider: github
 branch: develop
@@ -247,19 +247,6 @@ tools:
   detection_source: dockers/examples/cluster/docker-compose.yaml
   last_updated_by: Pengap
   last_updated_on: 2024-02-19 03:59:30.000000000 Z
-- name: Heroku Postgres
-  description: Heroku's Database-as-a-Service. Based on the most powerful open-source
-    database, PostgreSQL
-  website_url: https://www.heroku.com/postgres
-  open_source: false
-  hosted_saas: true
-  category: Data Stores
-  sub_category: PostgreSQL as a Service
-  image_url: https://img.stackshare.io/service/2516/original.png
-  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
-  detection_source: dockers/examples/cluster/docker-compose.yaml
-  last_updated_by: Pengap
-  last_updated_on: 2024-02-26 10:57:57.000000000 Z
 - name: Minio
   description: AWS S3 open source alternative written in Go
   website_url: https://minio.io/
@@ -524,6 +511,15 @@ tools:
   detection_source: apps/nestjs-backend/package.json
   last_updated_by: Boris
   last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: Postgres Teleport
+  website_url: https://github.com/pagarme/teleport
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6102/3846050.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
+  detection_source: dockers/examples/cluster/docker-compose.yaml
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
 - name: axios
   description: Promise based HTTP client for the browser and node.js
   website_url: https://github.com/mzabriskie/axios
