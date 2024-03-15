@@ -21,7 +21,6 @@ abhishekdbit1/teable is built on the following main stack:
 - [Storybook](https://storybook.js.org/) – JavaScript Framework Components
 - [Zustand](https://github.com/react-spring/zustand) – State Management Library
 - [DB](https://github.com/infostreams/db) – Database Tools
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [Minio](https://minio.io/) – Cloud Storage
 - [PostgreSQL](http://www.postgresql.org/) – Databases
 - [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
@@ -69,7 +68,6 @@ abhishekdbit1/teable is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/9240/sOct-Txm_400x400.png' alt='Storybook'/> [Storybook](https://storybook.js.org/) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/11559/zustand.png' alt='Zustand'/> [Zustand](https://github.com/react-spring/zustand) – State Management Library
 - <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
@@ -100,7 +98,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [abhishekdbit1/teable](https://github.com/abhishekdbit1/teable)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|149<br/>Tools used|03/14/24 <br/>Report generated|
+|149<br/>Tools used|03/15/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -260,20 +258,12 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (7)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'>
   <br>
   <sub><a href="https://github.com/infostreams/db">DB</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'>
-  <br>
-  <sub><a href="https://www.heroku.com/postgres">Heroku Postgres</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -424,7 +414,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (10)
+## Other (11)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg' alt='ANTLR'>
@@ -459,6 +449,14 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6102/3846050.png' alt='Postgres Teleport'>
+  <br>
+  <sub><a href="https://github.com/pagarme/teleport">Postgres Teleport</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'>
   <br>
   <sub><a href="https://github.com/mzabriskie/axios">axios</a></sub>
@@ -482,7 +480,9 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/9527/5502029.jpeg' alt='husky'>
   <br>
   <sub><a href="https://github.com/typicode/husky">husky</a></sub>
@@ -490,9 +490,7 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'>
   <br>
   <sub><a href="https://www.i18next.com/">i18next</a></sub>
