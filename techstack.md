@@ -100,7 +100,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [abhishekdbit1/teable](https://github.com/abhishekdbit1/teable)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|149<br/>Tools used|03/18/24 <br/>Report generated|
+|149<br/>Tools used|03/21/24 <br/>Report generated|
 |------|------|
 </div>
 
