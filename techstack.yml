@@ -1,0 +1,2031 @@
+repo_name: abhishekdbit1/teable
+report_id: cf1ec049cb08537b48840e6c344a4d1a
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T09:44:53+00:00'
+requested_by: caoxing9
+provider: github
+branch: develop
+detected_tools_count: 149
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  version: 4.2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/db-main-prisma/package.json
+  detection_source: packages/db-main-prisma/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2024-01-25 08:47:19.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/db-main-prisma/prisma/postgres/migrations/20240308114704_initial_database/migration.sql
+  detection_source: packages/db-main-prisma/prisma/postgres/migrations/20240308114704_initial_database/migration.sql
+  last_updated_by: Pengap
+  last_updated_on: 2023-10-08 07:11:19.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: NestJS
+  description: A progressive Node.js framework for building efficient and scalable
+    server-side applications by @kammysliwiec.
+  website_url: nestjs.com
+  version: 10.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 14.1.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-11-01 09:36:07.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: Recharts
+  description: Redefined chart library built with React and D3
+  website_url: http://recharts.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/5608/13690587.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 7.8.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
+  detection_source: dockers/examples/cluster/docker-compose.yaml
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: Heroku Postgres
+  description: Heroku's Database-as-a-Service. Based on the most powerful open-source
+    database, PostgreSQL
+  website_url: https://www.heroku.com/postgres
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: PostgreSQL as a Service
+  image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
+  detection_source: dockers/examples/cluster/docker-compose.yaml
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 7.1.3
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-01-09 08:25:32.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
+  detection_source: dockers/examples/cluster/docker-compose.yaml
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: Prisma
+  description: Modern Database Access for TypeScript &amp; Node.js
+  website_url: https://www.prisma.io/
+  version: 5.10.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/db-main-prisma/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
+  detection_source: dockers/examples/cluster/docker-compose.yaml
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/icons/package.json
+  detection_source: packages/icons/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/.github/workflows/docker-push.yml
+  detection_source: ".github/workflows/docker-push.yml"
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/.github/actions/docker-build-push/action.yml
+  detection_source: ".github/actions/docker-build-push/action.yml"
+  last_updated_by: pengap
+  last_updated_on: 2024-02-19 04:42:53.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-11-01 09:36:07.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/dockers/examples/cluster/docker-compose.yaml
+  detection_source: dockers/examples/cluster/docker-compose.yaml
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Boris Bo Wang
+  last_updated_on: 2024-03-07 08:35:14.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.90.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-11-01 09:36:07.000000000 Z
+- name: ANTLR
+  description: Posts by Terence Parr, The ANTLR guy, about ANTLR, StringTemplate,
+    parsing, and general computer language cruft.
+  website_url: http://www.antlr.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/abhishekdbit1/teable
+  detection_source: Repo Metadata
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2023-12-25 13:43:23.000000000 Z
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/icons/package.json
+  detection_source: packages/icons/package.json
+  last_updated_by: Boris Bo Wang
+  last_updated_on: 2023-07-06 03:09:39.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/sdk/package.json
+  detection_source: packages/sdk/package.json
+  last_updated_by: SkyHuang
+  last_updated_on: 2024-03-08 12:35:25.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: i18next
+  description: Internationalization-framework written in and for JavaScript
+  website_url: https://www.i18next.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Translation Service
+  image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 19.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: "@commitlint/config-conventional"
+  description: Shareable commitlint config enforcing conventional commits
+  package_url: https://www.npmjs.com/@commitlint/config-conventional
+  version: 19.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: "@mdx-js/react"
+  description: React implementation for MDX
+  package_url: https://www.npmjs.com/@mdx-js/react
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@nestjs/common"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/common
+  version: 10.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: "@nestjs/core"
+  description: Nest - modern, fast, powerful node.js web framework
+  package_url: https://www.npmjs.com/@nestjs/core
+  version: 10.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: "@nestjs/testing"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/testing
+  version: 10.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17855/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 7.6.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: "@storybook/addon-docs"
+  description: Superior documentation for your components
+  package_url: https://www.npmjs.com/@storybook/addon-docs
+  version: 7.6.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17835/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 7.6.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: "@storybook/addon-storysource"
+  description: Stories addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-storysource
+  version: 7.6.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16977/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 7.6.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@svgr/webpack"
+  description: SVGR webpack loader
+  package_url: https://www.npmjs.com/@svgr/webpack
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16411/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2023-12-25 13:43:23.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 14.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@types/cookie-parser"
+  description: TypeScript definitions for cookie-parser
+  package_url: https://www.npmjs.com/@types/cookie-parser
+  version: 1.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18195/default_5b09e8832af55b8bf88554d45d4eb65653e6ac76.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/cors"
+  description: TypeScript definitions for cors
+  package_url: https://www.npmjs.com/@types/cors
+  version: 2.8.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/express-session"
+  description: TypeScript definitions for express-session
+  package_url: https://www.npmjs.com/@types/express-session
+  version: 1.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18757/default_c692c805cf2082b8bc09a2771d585507f0f7bc36.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.202
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/passport"
+  description: TypeScript definitions for Passport
+  package_url: https://www.npmjs.com/@types/passport
+  version: 1.0.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18669/default_3ed0a361a097c631ee66d5aace42497748694521.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.64
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 18.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@types/ws"
+  description: TypeScript definitions for ws
+  package_url: https://www.npmjs.com/@types/ws
+  version: 8.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 7.0.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 8.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: bcrypt
+  description: A bcrypt library for NodeJS
+  package_url: https://www.npmjs.com/bcrypt
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16526/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-11-09 07:29:22.000000000 Z
+- name: camelcase
+  description: 'Convert a dash/dot/underscore/space separated string to camelCase
+    or PascalCase: `foo-bar` → `fooBar`'
+  package_url: https://www.npmjs.com/camelcase
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/db-main-prisma/package.json
+  detection_source: packages/db-main-prisma/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-10-11 08:56:16.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/icons/package.json
+  detection_source: packages/icons/package.json
+  last_updated_by: Boris Bo Wang
+  last_updated_on: 2023-07-06 03:09:39.000000000 Z
+- name: class-transformer
+  description: Proper decorator-based transformation / serialization / deserialization
+    of plain javascript objects to class constructors
+  package_url: https://www.npmjs.com/class-transformer
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17651/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: class-validator
+  description: Class-based validation with Typescript / ES6 / ES5 using decorators
+    or validation schemas
+  package_url: https://www.npmjs.com/class-validator
+  version: 0.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17583/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2024-01-30 14:20:05.000000000 Z
+- name: color
+  description: Color conversion and manipulation with CSS string support
+  package_url: https://www.npmjs.com/color
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Joker
+  last_updated_on: 2024-01-04 08:04:07.000000000 Z
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 12.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.36.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-12-18 08:17:04.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2024-01-30 14:20:05.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-10-08 07:11:19.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-01-30 09:19:20.000000000 Z
+- name: echarts
+  description: A powerful charting and visualization library for browser
+  package_url: https://www.npmjs.com/echarts
+  version: 5.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16603/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 3.6.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 27.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 5.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-26 10:57:57.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.33.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/eslint-config-bases/package.json
+  detection_source: packages/eslint-config-bases/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: filesize
+  description: JavaScript library to generate a human readable String describing the
+    file size
+  package_url: https://www.npmjs.com/filesize
+  version: 10.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16611/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Mike
+  last_updated_on: 2024-03-04 10:00:27.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 11.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2023-12-25 13:43:23.000000000 Z
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-11-01 08:52:17.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-12-18 08:17:04.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-11-09 07:29:22.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 9.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/sdk/package.json
+  detection_source: packages/sdk/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2023-12-25 13:43:23.000000000 Z
+- name: joi
+  description: Object schema validation
+  package_url: https://www.npmjs.com/joi
+  version: 17.12.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: knex
+  description: A batteries-included SQL query &amp; schema builder for Postgres
+  package_url: https://www.npmjs.com/knex
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 15.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 10.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-01-30 09:19:20.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 14.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-12-18 08:17:04.000000000 Z
+- name: microbundle
+  description: Zero-configuration bundler for tiny JS libs
+  package_url: https://www.npmjs.com/microbundle
+  version: 0.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16393/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/sdk/package.json
+  detection_source: packages/sdk/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-11-01 09:36:07.000000000 Z
+- name: mime-types
+  description: The ultimate javascript content-type utility
+  package_url: https://www.npmjs.com/mime-types
+  version: 2.1.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16448/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: mousetrap
+  description: Simple library for handling keyboard shortcuts
+  package_url: https://www.npmjs.com/mousetrap
+  version: 1.6.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18018/image.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/sdk/package.json
+  detection_source: packages/sdk/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-12-18 08:17:04.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-12-06 10:33:11.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-12-18 08:17:04.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-01-30 09:19:20.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: nprogress
+  description: Simple slim progress bars
+  package_url: https://www.npmjs.com/nprogress
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17061/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: papaparse
+  description: Fast and powerful CSV parser for the browser that supports web workers
+    and streaming large files
+  package_url: https://www.npmjs.com/papaparse
+  version: 5.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17945/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: passport-jwt
+  description: Passport authentication strategy using JSON Web Tokens
+  package_url: https://www.npmjs.com/passport-jwt
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18238/default_d0bdfc944c04fa7e84198f9a2784cc716a3d91a3.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Boris
+  last_updated_on: 2024-03-13 09:22:31.000000000 Z
+- name: pino-pretty
+  description: Prettifier for Pino log lines
+  package_url: https://www.npmjs.com/pino-pretty
+  version: 10.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18639/default_f02e96cdbc1c3cf01dabe59b227d3b3961e56b72.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: postcss-flexbugs-fixes
+  description: PostCSS plugin This project tries to fix all of flexbug's issues
+  package_url: https://www.npmjs.com/postcss-flexbugs-fixes
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16265/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: postcss-preset-env
+  description: Convert modern CSS into something browsers understand
+  package_url: https://www.npmjs.com/postcss-preset-env
+  version: 9.5.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-day-picker
+  description: Flexible date picker component for React
+  package_url: https://www.npmjs.com/react-day-picker
+  version: 8.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18299/default_678ce8b19e8cee1dde03f165f62525a2c9d0c034.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-i18next
+  description: Internationalization for react done right
+  package_url: https://www.npmjs.com/react-i18next
+  version: 14.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-markdown
+  description: Renders Markdown as React components
+  package_url: https://www.npmjs.com/react-markdown
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-resizable
+  description: A component that is resizable with handles
+  package_url: https://www.npmjs.com/react-resizable
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18447/default_ce264c1dd64cc60a7887273861f96d765d5ebde0.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-syntax-highlighter
+  description: Syntax highlighting component for react with prismjs or highlightjs
+    ast using inline styles
+  package_url: https://www.npmjs.com/react-syntax-highlighter
+  version: 15.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17323/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: react-textarea-autosize
+  description: Textarea component for React which grows with content
+  package_url: https://www.npmjs.com/react-textarea-autosize
+  version: 8.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18399/default_b6c55b4b82fd22f93807b75b975c6924c9bd8f73.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: require-from-string
+  description: Require module from string
+  package_url: https://www.npmjs.com/require-from-string
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18577/default_3a3bdb19c47f508090aa45abc5a396ca16544447.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-11-01 09:36:07.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 5.0.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-10-11 10:09:13.000000000 Z
+- name: sharp
+  description: High performance Node.js image processing
+  package_url: https://www.npmjs.com/sharp
+  version: 0.33.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: shell-quote
+  description: Quote and parse shell commands
+  package_url: https://www.npmjs.com/shell-quote
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17489/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Pengap
+  last_updated_on: 2023-12-18 08:17:04.000000000 Z
+- name: size-limit
+  description: CLI tool for Size Limit
+  package_url: https://www.npmjs.com/size-limit
+  version: 11.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17177/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Mike
+  last_updated_on: 2024-03-04 10:00:27.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-02-19 03:59:30.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 4.5.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nextjs-app/package.json
+  detection_source: apps/nextjs-app/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2022-11-01 09:36:07.000000000 Z
+- name: transliteration
+  description: Unicode to ACSII transliteration / slugify module for node.js
+  package_url: https://www.npmjs.com/transliteration
+  version: 2.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16935/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-07 10:45:18.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 9.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: tea artist
+  last_updated_on: 2023-12-25 13:43:23.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: tsconfig-paths-webpack-plugin
+  description: Load modules according to tsconfig paths in webpack
+  package_url: https://www.npmjs.com/tsconfig-paths-webpack-plugin
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17311/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/packages/ui-lib/package.json
+  detection_source: packages/ui-lib/package.json
+  last_updated_by: Pengap
+  last_updated_on: 2024-03-06 11:06:03.000000000 Z
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/abhishekdbit1/teable/blob/develop/apps/nestjs-backend/package.json
+  detection_source: apps/nestjs-backend/package.json
+  last_updated_by: Mike
+  last_updated_on: 2024-03-13 08:37:35.000000000 Z
